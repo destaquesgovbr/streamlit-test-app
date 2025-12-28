@@ -189,4 +189,4 @@ Para problemas ou dúvidas:
 
 ## Licença
 
-MIT License - veja [LICENSE](LICENSE) para detalhes.
+AGPL-3.0 License - veja [LICENSE](LICENSE) para detalhes.
